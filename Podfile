@@ -6,7 +6,7 @@ target 'UberProject' do
   use_frameworks!
 
   # Pods for UberProject
-
+inhibit_all_warnings!
 pod 'Firebase/Core'
 pod 'Firebase/Auth'
 pod 'Firebase/Database'
