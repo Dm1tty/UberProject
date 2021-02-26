@@ -1,7 +1,8 @@
-# UberProject
+# Uber Project
+
 ## I made a clone of Uber. Demo: https://youtu.be/Gcf65tpM3zg
 
-### Tools used:
+## Tools used:
 - Firebase
 - GeoFire
 - CocoaPods
